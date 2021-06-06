@@ -1,0 +1,12 @@
+lecture\Mypage.class
+lecture\MypageApplication.class
+lecture\AbstractEvent$1.class
+lecture\CourseScheduleModified.class
+lecture\config\kafka\KafkaProcessor.class
+lecture\AbstractEvent.class
+lecture\MypageRepository.class
+lecture\CourseModified.class
+lecture\PolicyHandler.class
+lecture\CourseDeleted.class
+lecture\MypageViewHandler.class
+lecture\CourseRegistered.class
